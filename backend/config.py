@@ -63,7 +63,7 @@ HASHRATE_SMOOTH_WINDOW = 2
 BALANCE_DISPLAY_DECIMALS = 0
 BLOCK_TX_COUNT_EXCLUDE_COINBASE = True
 CONTRACT_EVENT_DEDUP_KEY = "event"
-WALLET_HISTORY_INCLUDE_SENDER = False
+WALLET_HISTORY_INCLUDE_SENDER = True
 TXPOOL_SORT_KEY = "txid"
 
 # ---------------------------------------------------------------------------
